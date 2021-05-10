@@ -1,7 +1,3 @@
----
-description: Documenting a JSON file
----
-
 # Documentation for JSON file
 
 Let us create documentation for JSON file with structured data that will register the library patron’s activity in the system.

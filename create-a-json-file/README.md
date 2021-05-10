@@ -1,7 +1,3 @@
----
-description: Simple JSON file
----
-
 # Create a JSON file
 
 Let us create a JSON file with structured data that captures the activities of the librarian and library patron.
