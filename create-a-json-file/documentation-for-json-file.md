@@ -1,5 +1,5 @@
 ---
-description: Documenting an JSON file
+description: Documenting a JSON file
 ---
 
 # Documentation for JSON file
